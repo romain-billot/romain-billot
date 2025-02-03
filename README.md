@@ -4,15 +4,16 @@
 
 Bonjour, je m'appelle Romain Billot. Je suis développeur full-stack avec une passion pour les applications web et la programmation en général. J'aime résoudre des problèmes, faire des découvertes, collaborer et partager mes trouvailles.
 
-- 🔭 Je suis actuellement stagiaire chez Nicoya où je participe au développement du site web.
-- 🌱 En parallèle, j'apprends le développement en Laravel avec Vue et Inertia.
-- 👯 Je suis ouvert à collaborer sur des projets intéressants et innovants.
+- 🚀 Je suis actuellement stagiaire chez Nicoya où je participe au développement du site web.
+- 🧠 En parallèle, j'apprends le développement en Laravel avec Vue et Inertia.
+- 🤝 Je suis ouvert à collaborer sur des projets intéressants et innovants.
 
 ## Compétences
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
